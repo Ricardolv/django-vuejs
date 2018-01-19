@@ -57,7 +57,8 @@ node_modules/
 
 # virtual environments
 .env
+newenv/
 
 # User-uploaded media
 project/media/
-
+ 
