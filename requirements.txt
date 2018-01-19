@@ -1,0 +1,5 @@
+Django==1.11
+pip==9.0.1
+pytz==2017.3
+weel==38.4.0
+setuptools==0.30.0
