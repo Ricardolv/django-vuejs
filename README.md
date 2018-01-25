@@ -5,7 +5,7 @@
 1. Clone o repositório.
 2. Crie um virtualenv com Python 3.6
 3. Ative o virtualenv
-4. Instale as dependências do django
+4. Instale as dependências do projeto
 5. Instale as dependências do vuejs
 6. Gerar arquivo bundle.js via npm  
 7. Execute o Django
